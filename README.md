@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours français sur les oracles HyperCore, la solvabilité, les liquidations et les invariants de sécurité HyperEVM est disponible dans [`docs/fr/`](docs/fr/).
+
 # hyperevm-safety (v0.1)
 
 [![ci](https://github.com/caliperforge/hyperevm-safety/actions/workflows/ci.yml/badge.svg)](https://github.com/caliperforge/hyperevm-safety/actions/workflows/ci.yml)
