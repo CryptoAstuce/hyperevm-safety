@@ -1,11 +1,11 @@
 # Liquidations et incident JELLY
 
-Un marche doit rester solvable meme lorsque prix, liquidite et taille de position evoluent brutalement.
-La reproduction JELLY du depot separe une version propre d une variante volontairement vulnerable.
-Cette methode de jumeaux rend la propriete attendue visible sans confondre correctif et demonstration.
-Les invariants suivent dette, collateral, bonus de liquidation et valeur realisable.
-Une liquidation partielle ne doit pas augmenter le deficit ni bloquer les etapes suivantes.
-Les plafonds d emprunt et de collateral limitent l exposition a un actif peu liquide.
+Un marché doit rester solvable même lorsque prix, liquidité et taille de position évoluent brutalement.
+La reproduction JELLY du dépôt sépare une version propre d’une variante volontairement vulnérable.
+Cette méthode de jumeaux rend la propriété attendue visible sans confondre correctif et démonstration.
+Les invariants suivent dette, collatéral, bonus de liquidation et valeur réalisable.
+Une liquidation partielle ne doit pas augmenter le déficit ni bloquer les étapes suivantes.
+Les plafonds d’emprunt et de collatéral limitent l’exposition à un actif peu liquide.
 Les incidents historiques servent de cas adverses, pas de preuve que toutes les variantes sont couvertes.
 
 Suite : [05 — Limites et vérification](05-limites-et-verification.md).
